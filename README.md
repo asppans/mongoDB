@@ -1,10 +1,9 @@
 # MongoDB README
 
 # COMPONENTS
-
-  mongod - The database process.
-  mongos - Sharding controller.
-  mongo  - The database shell (uses interactive javascript).
+1. mongod - The database process.
+2. mongos - Sharding controller.
+3. mongo  - The database shell (uses interactive javascript).
 
 # UTILITIES
 1. bsondump - display BSON files in a human-readable format
