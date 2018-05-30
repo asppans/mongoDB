@@ -1,4 +1,4 @@
-MongoDB
+![m](https://user-images.githubusercontent.com/11170171/40729738-b132b9cc-63f2-11e8-9a6f-167bb6864aac.png)
 
 ## COMPONENTS
 mongod - The database process.
